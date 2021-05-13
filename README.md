@@ -12,5 +12,5 @@ The source code is from https://github.com/Sleepychord/ImprovedGAN-pytorch.
 
 # Running
 Beforehand, I have downloaded the MNIST data from http://yann.lecun.com/exdb/mnist/ and processed the data. (ref: https://blog.csdn.net/qq_21210467/article/details/81414903)
-You can also get the processed data in this repository.
+You can also get the processed data in this repository -> Release.
 
